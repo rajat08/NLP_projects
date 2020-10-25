@@ -1,0 +1,130 @@
+similarity for soc.religion.christian
+-------------------------------------------------
+soc.religion.christian : 0.9999999999999998
+rec.autos : 0.09686402970702991
+talk.politics.misc : 0.19350715937080842
+rec.sport.hockey : 0.07455876363553426
+alt.atheism : 0.32953636270810166
+rec.sport.baseball : 0.08853351226118951
+talk.politics.mideast : 0.1667869264669161
+rec.motorcycles : 0.0784796465063692
+talk.politics.guns : 0.1455302729213594
+talk.religion.misc : 0.4081189962344567
+************************************************
+similarity for rec.autos
+-------------------------------------------------
+soc.religion.christian : 0.09686402970702991
+rec.autos : 1.0000000000000002
+talk.politics.misc : 0.13363990118481933
+rec.sport.hockey : 0.09120747723196203
+alt.atheism : 0.08750318133609547
+rec.sport.baseball : 0.10674269830140659
+talk.politics.mideast : 0.07941635636955273
+rec.motorcycles : 0.3095773689526148
+talk.politics.guns : 0.16268132948084044
+talk.religion.misc : 0.09558812840506435
+************************************************
+similarity for talk.politics.misc
+-------------------------------------------------
+soc.religion.christian : 0.19350715937080842
+rec.autos : 0.13363990118481933
+talk.politics.misc : 0.9999999999999999
+rec.sport.hockey : 0.12133871416257158
+alt.atheism : 0.20774141348735484
+rec.sport.baseball : 0.12962609528648056
+talk.politics.mideast : 0.21784337763120404
+rec.motorcycles : 0.11919815208269817
+talk.politics.guns : 0.3351026595908666
+talk.religion.misc : 0.22480271407785737
+************************************************
+similarity for rec.sport.hockey
+-------------------------------------------------
+soc.religion.christian : 0.07455876363553426
+rec.autos : 0.09120747723196203
+talk.politics.misc : 0.12133871416257158
+rec.sport.hockey : 0.9999999999999998
+alt.atheism : 0.06874557151496609
+rec.sport.baseball : 0.20543279730382755
+talk.politics.mideast : 0.07200427640918237
+rec.motorcycles : 0.08724762410270571
+talk.politics.guns : 0.09937521947152346
+talk.religion.misc : 0.05867548636623378
+************************************************
+similarity for alt.atheism
+-------------------------------------------------
+soc.religion.christian : 0.32953636270810166
+rec.autos : 0.08750318133609547
+talk.politics.misc : 0.20774141348735484
+rec.sport.hockey : 0.06874557151496609
+alt.atheism : 1.0
+rec.sport.baseball : 0.07566267784600185
+talk.politics.mideast : 0.16109897937048673
+rec.motorcycles : 0.06934282600093825
+talk.politics.guns : 0.14867748811448261
+talk.religion.misc : 0.4571210979705626
+************************************************
+similarity for rec.sport.baseball
+-------------------------------------------------
+soc.religion.christian : 0.08853351226118951
+rec.autos : 0.10674269830140659
+talk.politics.misc : 0.12962609528648056
+rec.sport.hockey : 0.20543279730382755
+alt.atheism : 0.07566267784600185
+rec.sport.baseball : 1.0000000000000002
+talk.politics.mideast : 0.0631165847412422
+rec.motorcycles : 0.08970794057341529
+talk.politics.guns : 0.09946765894087833
+talk.religion.misc : 0.08204681140616397
+************************************************
+similarity for talk.politics.mideast
+-------------------------------------------------
+soc.religion.christian : 0.1667869264669161
+rec.autos : 0.07941635636955273
+talk.politics.misc : 0.21784337763120404
+rec.sport.hockey : 0.07200427640918237
+alt.atheism : 0.16109897937048673
+rec.sport.baseball : 0.0631165847412422
+talk.politics.mideast : 1.0
+rec.motorcycles : 0.06742430643716384
+talk.politics.guns : 0.16508497553632165
+talk.religion.misc : 0.15949209831044628
+************************************************
+similarity for rec.motorcycles
+-------------------------------------------------
+soc.religion.christian : 0.0784796465063692
+rec.autos : 0.3095773689526148
+talk.politics.misc : 0.11919815208269817
+rec.sport.hockey : 0.08724762410270571
+alt.atheism : 0.06934282600093825
+rec.sport.baseball : 0.08970794057341529
+talk.politics.mideast : 0.06742430643716384
+rec.motorcycles : 0.9999999999999998
+talk.politics.guns : 0.1276231740989564
+talk.religion.misc : 0.08967342427810862
+************************************************
+similarity for talk.politics.guns
+-------------------------------------------------
+soc.religion.christian : 0.1455302729213594
+rec.autos : 0.16268132948084044
+talk.politics.misc : 0.3351026595908666
+rec.sport.hockey : 0.09937521947152346
+alt.atheism : 0.14867748811448261
+rec.sport.baseball : 0.09946765894087833
+talk.politics.mideast : 0.16508497553632165
+rec.motorcycles : 0.1276231740989564
+talk.politics.guns : 1.0
+talk.religion.misc : 0.1969995263837194
+************************************************
+similarity for talk.religion.misc
+-------------------------------------------------
+soc.religion.christian : 0.4081189962344567
+rec.autos : 0.09558812840506435
+talk.politics.misc : 0.22480271407785737
+rec.sport.hockey : 0.05867548636623378
+alt.atheism : 0.4571210979705626
+rec.sport.baseball : 0.08204681140616397
+talk.politics.mideast : 0.15949209831044628
+rec.motorcycles : 0.08967342427810862
+talk.politics.guns : 0.1969995263837194
+talk.religion.misc : 1.0
+************************************************
